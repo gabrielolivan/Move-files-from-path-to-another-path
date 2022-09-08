@@ -1,0 +1,7 @@
+[DEFAULT]
+PASTA_DE_ENTRADA_DOS_ARQUIVOS = caminho da entrada de arquivos
+PASTA_DE_SAIDA_DOS_ARQUIVOS = caminho de saida de arquivos
+FORMATO_ARQUIVOS_LIDOS = txt, csv
+ADICIONAR_DATA_NO_NOME_DO_ARQUIVO = False
+MOVER_E_CRIAR_COPIA_EM_OUTRA_PASTA = True
+PASTA_DE_SAIDA_DA_COPIA = caminho da saida dos arquivos que serão copiados
